@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Play');
+.container{
+  color: #FFFFFF;
+  width: 80%;
+  word-wrap: break-word;
+}
+
+.toc{
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 1px;
+  font-family: 'Play', sans-serif;
+  width: 25%;
+  word-wrap: break-word;
+}
+
+.emph{
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 150px;
+}
+
+.semph{
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 70px;
+}
+
+.talk{
+  font-family: 'Play', sans-serif;
+}
+
+body{
+  background-color: black;
+}
+
+a{
+  color: #FFFFFF;
+}
